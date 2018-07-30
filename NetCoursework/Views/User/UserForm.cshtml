@@ -1,0 +1,52 @@
+﻿@model NetCoursework.ViewModels.NewUserViewModel
+
+@{
+    ViewBag.Title = "UserForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>New User</h2>
+
+@using (Html.BeginForm("Save", "User"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.RegisteredUser.Name)
+        @Html.TextBoxFor(m => m.RegisteredUser.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.RegisteredUser.Name)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.RegisteredUser.Birthdate)
+        @Html.TextBoxFor(m => m.RegisteredUser.Birthdate, "{0:d MMM yyyy}", new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.RegisteredUser.Gender)
+        @Html.TextBoxFor(m => m.RegisteredUser.Gender, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.RegisteredUser.Email)
+        @Html.TextBoxFor(m => m.RegisteredUser.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.RegisteredUser.Email)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.RegisteredUser.Address)
+        @Html.TextBoxFor(m => m.RegisteredUser.Address, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.RegisteredUser.Address)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.RegisteredUser.Postcode)
+        @Html.TextBoxFor(m => m.RegisteredUser.Postcode, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.RegisteredUser.Phonenumber)
+        @Html.TextBoxFor(m => m.RegisteredUser.Phonenumber, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.RegisteredUser.Phonenumber)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.RegisteredUser.BiographyId)
+        @Html.DropDownListFor(m => m.RegisteredUser.BiographyId, new SelectList(Model.Biographies, "BiographyId", "Subject"), "Select Subject", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.RegisteredUser.BiographyId)
+    </div>a
+    @Html.HiddenFor(m => m.RegisteredUser.Id)
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+

@@ -1,0 +1,34 @@
+﻿@model IEnumerable<NetCoursework.Models.RegisteredUsers>
+
+@{
+    ViewBag.Title = "ReadOnlyIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Users</h2>
+
+@if (!Model.Any())
+{
+    <p>We don't have any Users yet.</p>
+}
+else
+{
+    <table id="users" class="table table-bordered table-hover">
+        <thread>
+            <tr>
+                <th>User</th>
+                <th>Subject</th>
+                
+            </tr>
+        </thread>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Name</td>
+                    <td>@user.Biography.Subject</td>
+                </tr>
+            }
+        </tbody>
+    </table>  
+}

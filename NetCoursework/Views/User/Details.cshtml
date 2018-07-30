@@ -1,0 +1,54 @@
+﻿@model NetCoursework.Models.RegisteredUsers
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    li.personalInfo {
+        font-size: 20px;
+        padding: 5px 0px
+    }
+</style>
+
+<h2>@Model.Name</h2>
+<h3>Personal Information</h3>
+<ul style="list-style-type:none">
+    @if (Model.Birthdate.HasValue)
+    {
+        <li class="personalInfo">Date of Birth: @Model.Birthdate.Value.ToShortDateString()</li>
+    }
+    @if (!string.IsNullOrEmpty(Model.Gender))
+    {
+        <li class="personalInfo">Gender: @Model.Gender</li>
+    }
+    <li class="personalInfo">Email: @Model.Email</li>
+    <li class="personalInfo">Address: @Model.Address</li>
+    @if (!string.IsNullOrEmpty(Model.Postcode))
+    {
+        <li class="personalInfo">Postcode: @Model.Postcode</li>
+    }
+    <li class="personalInfo">Phone Number: @Model.Phonenumber</li>
+</ul>
+<h3>Biography</h3>
+<ul style="list-style-type:none">
+    @if (!string.IsNullOrEmpty(Model.Biography.Subject))
+    {
+        <li class="personalInfo">Subject: @Model.Biography.Subject</li>
+    }
+    @if (!string.IsNullOrEmpty(Model.Biography.SkillOne))
+    {
+        <li class="personalInfo">Skill 1: @Model.Biography.SkillOne</li>
+    }
+    @if (!string.IsNullOrEmpty(Model.Biography.SkillTwo))
+    {
+        <li class="personalInfo">Skill 2: @Model.Biography.SkillTwo</li>
+    }
+    @if (!string.IsNullOrEmpty(Model.Biography.SkillThree))
+    {
+        <li class="personalInfo">Skill 3: @Model.Biography.SkillThree</li>
+    }
+</ul>
+
+

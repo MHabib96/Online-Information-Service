@@ -1,0 +1,34 @@
+﻿@model IEnumerable<NetCoursework.Models.Event>
+
+@{
+    ViewBag.Title = "ReadOnlyIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Official Events/Activities</h2>
+
+
+@if (!Model.Any())
+{
+    <p>We don't have any Events yet.</p>
+}
+else
+{
+    <table id="events" class="table table-bordered table-hover">
+        <thread>
+            <tr>
+                <th>Event</th>
+                <th>Subject</th>
+            </tr>
+        </thread>
+        <tbody>
+            @foreach (var myEvent in Model)
+            {
+                <tr>
+                    <td>@Html.ActionLink(myEvent.Name, "Details", "Event", new { id = myEvent.Id }, null)</td>
+                    <td>@myEvent.EventSubject</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

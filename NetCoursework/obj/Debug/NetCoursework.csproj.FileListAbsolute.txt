@@ -1,0 +1,403 @@
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\ApplicationInsights.config
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\NetCoursework.dll.config
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\NetCoursework.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\NetCoursework.pdb
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\csc.exe
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\csc.exe.config
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\csc.rsp
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\csi.exe
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\csi.exe.config
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\csi.rsp
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.AppContext.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Console.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\vbc.exe
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\vbc.exe.config
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\vbc.rsp
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Antlr3.Runtime.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\EntityFramework.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AI.Web.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Newtonsoft.Json.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Owin.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.Helpers.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.Mvc.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.Optimization.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.Razor.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.WebPages.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\WebGrease.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.Helpers.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.Mvc.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.Optimization.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.Razor.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.WebPages.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Antlr3.Runtime.pdb
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Newtonsoft.Json.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\EntityFramework.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\Microsoft.AI.Web.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\obj\Debug\NetCoursework.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\obj\Debug\NetCoursework.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\obj\Debug\NetCoursework.csproj.CopyComplete
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\obj\Debug\NetCoursework.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\obj\Debug\NetCoursework.pdb
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.AddTablesIntoDatabase.resources
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\obj\Debug\NetCoursework.csproj.GenerateResource.cache
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.AddUserBioTable.resources
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Net.Http.Formatting.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.Http.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.Http.WebHost.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Net.Http.Formatting.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.Http.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\System.Web.Http.WebHost.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\AutoMapper.dll
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\bin\AutoMapper.xml
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.AddDisplayToBiographyIdProperty.resources
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.AddEventTableToDatabase.resources
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.EnableDateTimeForEventTable.resources
+C:\Users\Mohammad\Documents\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.SeedUsers.resources
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\ApplicationInsights.config
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\NetCoursework.dll.config
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\NetCoursework.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\NetCoursework.pdb
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\csc.exe
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\csc.exe.config
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\csc.rsp
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\csi.exe
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\csi.exe.config
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\csi.rsp
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.AppContext.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Console.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\vbc.exe
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\vbc.exe.config
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\vbc.rsp
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Antlr3.Runtime.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\AutoMapper.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\EntityFramework.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AI.Web.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Newtonsoft.Json.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Owin.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Net.Http.Formatting.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.Helpers.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.Http.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.Http.WebHost.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.Mvc.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.Optimization.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.Razor.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.WebPages.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\WebGrease.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\AutoMapper.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Net.Http.Formatting.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.Http.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.Http.WebHost.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.Helpers.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.Mvc.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.Optimization.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.Razor.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.WebPages.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Antlr3.Runtime.pdb
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Newtonsoft.Json.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\EntityFramework.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\bin\Microsoft.AI.Web.xml
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\obj\Debug\NetCoursework.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.AddTablesIntoDatabase.resources
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.AddUserBioTable.resources
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.AddDisplayToBiographyIdProperty.resources
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.AddEventTableToDatabase.resources
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.EnableDateTimeForEventTable.resources
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.SeedUsers.resources
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\obj\Debug\NetCoursework.csproj.GenerateResource.cache
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\obj\Debug\NetCoursework.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\obj\Debug\NetCoursework.csproj.CopyComplete
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\obj\Debug\NetCoursework.dll
+C:\Users\Mohammad\OneDrive\1.University_Y3\1.Programming 3\TB_2\5.Net Coursework\NetCoursework\NetCoursework\obj\Debug\NetCoursework.pdb
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\ApplicationInsights.config
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\NetCoursework.dll.config
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\NetCoursework.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\NetCoursework.pdb
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\csc.exe
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\csc.exe.config
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\csc.rsp
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\csi.exe
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\csi.exe.config
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\csi.rsp
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.AppContext.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Console.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\vbc.exe
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\vbc.exe.config
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\vbc.rsp
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Antlr3.Runtime.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\AutoMapper.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\EntityFramework.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AI.Web.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Newtonsoft.Json.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Owin.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Net.Http.Formatting.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.Helpers.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.Http.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.Http.WebHost.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.Mvc.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.Optimization.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.Razor.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.WebPages.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\WebGrease.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\AutoMapper.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Net.Http.Formatting.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.Http.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.Http.WebHost.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.Helpers.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.Mvc.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.Optimization.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.Razor.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.WebPages.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Antlr3.Runtime.pdb
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Newtonsoft.Json.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\EntityFramework.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\bin\Microsoft.AI.Web.xml
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\obj\Debug\NetCoursework.csprojResolveAssemblyReference.cache
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.AddTablesIntoDatabase.resources
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.AddUserBioTable.resources
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.AddDisplayToBiographyIdProperty.resources
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.AddEventTableToDatabase.resources
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.EnableDateTimeForEventTable.resources
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\obj\Debug\NetCoursework.Migrations.SeedUsers.resources
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\obj\Debug\NetCoursework.csproj.GenerateResource.Cache
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\obj\Debug\NetCoursework.dll
+C:\Users\Mohammad\Desktop\NetCoursework\NetCoursework\obj\Debug\NetCoursework.pdb

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<NetCoursework.Models.Event>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Official Events/Activities</h2>
+
+@if (!Model.Any())
+{
+    <p>We don't have any Events yet.</p>
+}
+else
+{
+    <table id="events" class="table table-bordered table-hover">
+        <thread>
+            <tr>
+                <th>Event</th>
+                <th>Subject</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+        </thread>
+        <tbody>
+            @foreach (var myEvent in Model)
+            {
+                <tr>
+                    <td>@Html.ActionLink(myEvent.Name, "Details", "Event", new { id = myEvent.Id }, null)</td>
+                    <td>@myEvent.EventSubject</td>
+                    <td>@Html.ActionLink("Edit", "Edit", "Event", new { id = myEvent.Id }, null)</td>
+                    <td>
+                        <button data-event-id="@myEvent.Id" class="btn-link js-delete">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    @Html.ActionLink("Add Event", "New", "Event", null, new { @class = "btn btn-primary" })
+}
+
+<!--Implementing Delete Functionality using JQuery-->
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            $("#events .js-delete").on("click", function () {
+                var button = $(this);
+
+                if (confirm("Are you sure you want to delete this Event?")) {
+                    $.ajax({
+                        url: "/api/events/" + button.attr("data-event-id"),
+                        method: "DELETE",
+                        success: function () {
+                            button.parents("tr").remove();
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+}

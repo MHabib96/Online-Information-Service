@@ -1,0 +1,25 @@
+﻿@model NetCoursework.Models.Event
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    li.eventInfo {
+        font-size: 20px;
+        padding: 5px 0px
+    }
+</style>
+
+<h2>@Model.Name</h2>
+<h3>Event/Activity Information</h3>
+<ul style="list-style-type:none">
+    @if (Model.Eventdate.HasValue)
+    {
+        <li class="eventInfo">Date: @Model.Eventdate.Value.ToShortDateString()</li>
+    }
+    <li class="eventInfo">Subject: @Model.EventSubject</li>
+    <li class="eventInfo">Location: @Model.Location</li>
+    <li class="eventInfo">Contact Number: @Model.ContactNumber</li>
+</ul>
